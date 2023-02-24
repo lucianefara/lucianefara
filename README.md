@@ -9,7 +9,10 @@
 
 
 ## Sobre mim 🎯
-<p> Sou Engenheira Civil apaixonada por tecnologia e inovação, há alguns meses decidi estudar pra o que de fato faz mais sentido pra mim e desde então me dedico pra o universo Front-End. </p> 
+<p> 
+    Sou Engenheira Civil e com paixão pela <strong>tecnologia e inovação</strong>. <br>
+    Há alguns meses estudando pra o que sempre me fascinou e desde então dedico-me ao universo Front-End.
+</p> 
 
 
 # Conhecimentos 
