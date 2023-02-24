@@ -1,4 +1,4 @@
-# LUCIANE FARA <img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px">
+# LUCIANE FARA 
 
 <div> 
     <a href="https://instagram.com/lucianefara" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
