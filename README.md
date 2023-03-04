@@ -11,7 +11,7 @@
 ## Sobre mim 🎯
 <p> 
     Graduada em Engenharia Civil e com paixão pela <strong>tecnologia e inovação</strong>. <br>
-    Há alguns meses estudando pra o que sempre me fascinou e desde então dedico-me ao universo Front-End.
+    Atualmente dedico-me pra o que sempre me fascinou e desde então dedico-me ao universo Front-End.
 </p> 
 
 
