@@ -10,7 +10,7 @@
 
 ## Sobre mim 🎯
 <p> 
-    Graduada em Engenharia Civil e com paixão pela <strong>tecnologia e inovação</strong>. 
+    Graduada em Engenharia Civil e com paixão pela <strong>tecnologia e inovação</strong>. <br><br>
     Atualmente ~ imersa ao universo Front-End ~ .
 </p> 
 
